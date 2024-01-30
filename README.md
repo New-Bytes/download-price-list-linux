@@ -1,4 +1,4 @@
-# Descargador Automático de Archivos
+# Descargador Automático de Listado de precios
 
 Este conjunto de scripts de Bash permite la descarga automática de archivos en formato XLSX o CSV desde una URL específica. Además, ofrece la capacidad de programar descargas regulares utilizando `crontab`.
 
